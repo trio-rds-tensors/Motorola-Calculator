@@ -1,0 +1,68 @@
+<style>
+      .div2{width:380px;
+            
+          
+      
+      }
+      .box{width:376px;
+           height:130px;
+           background-color:rgb(0,128,112);
+           border-bottom-left-radius:25px;
+           border-bottom-right-radius:25px;
+           border:none;
+           font-size:30px;
+           color:white;
+           text-align:right;
+           
+      }
+      .div1{background-color:rgb(0,0,0);
+            width:380px;
+            height:620px;
+            border-top-right-radius:5px;
+          
+      }
+      .ac{color:white;
+             height:80px;
+             width:80px;
+             border:none;
+             border-radius:40px;
+             font-size:35px;
+             margin-bottom:8px;
+             margin-left:5px;
+             background-color:rgb(58,85,109);
+      }
+      .equalto{color:rgb(160,255,229);
+             height:80px;
+             width:80px;
+             border:none;
+             border-radius:40px;
+             font-size:35px;
+             margin-bottom:8px;
+             margin-left:5px;
+             background-color:rgb(0,128,112); 
+        
+      }
+      .op{color:white;
+             height:80px;
+             width:80px;
+             border:none;
+             border-radius:40px;
+             font-size:35px;
+             margin-bottom:8px;
+             margin-left:5px;
+             background-color:rgb(72,89,92); 
+        
+      }  
+      .num{color:white;
+             height:80px;
+             width:80px;
+             border:none;
+             border-radius:40px;
+             font-size:35px;
+             margin-bottom:8px;
+             margin-left:5px;
+             background-color:rgb(27,43,39); 
+        
+      }       
+             
+    </style>
