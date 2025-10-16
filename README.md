@@ -50,7 +50,7 @@ A sleek and efficient calculator web application inspired by Motorola's mobile d
 ---
 ## 🌄 UI Preview
 
-![Motorola Calculator Interface](samsung-calculator-preview.png)
+![Motorola Calculator Interface](motorola-calculator-preview.png)
 
 ---
 ## 🙌 Acknowledgements
