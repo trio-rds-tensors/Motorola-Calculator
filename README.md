@@ -3,7 +3,7 @@
 
 A sleek and efficient calculator web application inspired by Motorola's mobile design. Built with **HTML**, **CSS**, **JavaScript**, and **PHP** for server-side expression evaluation.
 
-🔗 **Live Demo:** [Try the Calculator Now 🚀](https://trio-rds-tensors.lovestoblog.com/calculator-dipali-sudipta/)
+🔗 **Live Demo:** [Try the Calculator Now 🚀](https://motorola-calculator.66ghz.com/)
 
 ---
 ## 🎯 Features
